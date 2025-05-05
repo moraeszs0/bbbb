@@ -21,3 +21,8 @@ font-size: 18px;
 color: aquamarine;
 background: violet;
 }
+
+#subestimados li::marker{
+    font-size: 30px;
+    color: aqua;
+}
